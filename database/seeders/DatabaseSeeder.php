@@ -3,6 +3,9 @@
 namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
+use App\Models\Student;
+use database\factories\StudentFactory;
+
 
 class DatabaseSeeder extends Seeder
 {
